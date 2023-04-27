@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/first-react-website/static/css/main.b8195bee.css",
+    "main.js": "/first-react-website/static/js/main.bc252bb8.js",
+    "static/media/hero.jpg": "/first-react-website/static/media/hero.8562676a6412e9ec4644.jpg",
+    "static/media/john-doe.png": "/first-react-website/static/media/john-doe.e4675f127b56d41e5c8a.png",
+    "static/media/logo.png": "/first-react-website/static/media/logo.014fa922a0314801d50d.png",
+    "index.html": "/first-react-website/index.html",
+    "main.b8195bee.css.map": "/first-react-website/static/css/main.b8195bee.css.map",
+    "main.bc252bb8.js.map": "/first-react-website/static/js/main.bc252bb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8195bee.css",
+    "static/js/main.bc252bb8.js"
+  ]
+}
